@@ -18,19 +18,23 @@ bio: My research interests include speech synthesis and voice conversion
 
 # Interests to show in About widget
 interests:
-- Speech (Singing) Synthesis
+- Speech & Audio Processing
+- Speech Synthesis
 - Voice Conversion
-- Deep Learning
+- Audio Generation
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: The Chinese University of Hong Kong
+    year: 2021-
   - course: MEng in Computer Science
     institution: Northwestern Polytechnical University
-    year: 2020
+    year: 2017-2020
   - course: BSc in Computer Science
     institution: Northwestern Polytechnical University
-    year: 2017
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +74,4 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Hello! I am a PhD student.
+Hello! I am Haohan, a PhD student @ CUHK. Before it, I studied at the School of Computer Science and Engineering, Northwestern Polytechnical University, and received a bachelor's degree in 2017 and a master's degree in 2020. Then I worked as a researcher at Sogou Inc., and focused on singing voice conversion.
