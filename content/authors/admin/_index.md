@@ -14,7 +14,7 @@ organizations:
   url: https://www.cuhk.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include speech synthesis and voice conversion
+bio: Always curious about the world
 
 # Interests to show in About widget
 interests:
@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hhguo1995@gmail.com'#'/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/hhguo9527
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/hhguo9527
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com.hk/citations?user=B-ZmwcMAAAAJ
@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: 'media/resume.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,4 +74,4 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Hello! I am Haohan, a PhD student @ CUHK. Before it, I studied at the School of Computer Science and Engineering, Northwestern Polytechnical University, and received a bachelor's degree in 2017 and a master's degree in 2020. Then I worked as a researcher at Sogou Inc., and focused on singing voice conversion.
+Hello! I am Haohan, a PhD student @ CUHK. Before it, I studied at the School of Computer Science and Engineering, Northwestern Polytechnical University during 2013-2020. Then I worked as a researcher at Sogou Inc during 2020-2021. My current research direction is deep learning based speech synthesis. If you are interested in my works, welcome to contact me.
