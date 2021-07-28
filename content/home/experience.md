@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Work Experience
-subtitle:
+title: Experience
+subtitle: lab, internship, full-time employee
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,42 +22,62 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD student
+    company: HCCL@CUHK
+    company_url: 'https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/'
+    company_logo: ''
+    location: Beijing, China
+    date_start: '2021-08-02'
+    date_end: ''
+    description: Supervised by Helen Meng.
+    order: 2
+
   - title: Researcher
     company: Sogou
     company_url: 'https://ai.sogou.com/'
-    company_logo: ''
+    company_logo: 'org-sogou'
     location: Beijing, China
     date_start: '2020-12-09'
     date_end: '2021-07-23'
-    description: Focus on Multi-singer Singing Voice Conversion
+    description: Work as a researcher on singing voice conversion. We aim to develop a commercial singing conversion system which can convert arbitrary singing voice to the target timbre. High sound quality and accurate melody expression are both required.
+    order: 1
         
   - title: Research Intern
     company: 'Tencent AI Lab'
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://ai.tencent.com/ailab/'
+    company_logo: 'org-tencent'
     location: Beijing, China
     date_start: '2020-05-01'
     date_end: '2020-12-01'
-    description: Focus on Multi-singer Singing Voice Conversion
+    description: Research topic is multi-singer singing voice conversion. We propose a MelGAN based end-to-end PPG-SVC model. It significantly improves the sound quality and singer similarity over the conventional PPG-SVC framework. The work is summarized to the paper, [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](./publication/2020_arxiv_easvc).
 
   - title: Research Intern
     company: 'Microsoft Research Asia & Microsoft STCA'
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.msra.cn/'
+    company_logo: 'org-ms'
     location: Beijing, China
     date_start: '2018-05-01'
     date_end: '2019-09-01'
-    description: Improving the robustness and naturalness of end-to-end TTS
+    description: Supervised by Frank K. Soong and Lei He. We aim to improve the robustness and naturalness of end-to-end TTS. Two main works are published to INTERSPEECH 2019, [A New GAN-based End-to-End TTS Training Algorithm](./publication/2019_interspeech_gantts) and [Exploiting Syntactic Features in a Parsed Tree to Improve End-to-End TTS](./publication/2019_interspeech_parser). We also investigate the conversational TTS using the end-to-end approach. The work is published to SLT 2021, [Conversational End-to-End TTS for Voice Agents](./publication/2021_slt_convtts).
+
+  - title: Student
+    company: 'Audio, Speech and Language Processing Group at Northwestern Polytechnical University (ASLP @ NWPU)'
+    company_url: 'http://www.npu-aslp.org/'
+    company_logo: ''
+    location: Xi'an, Shannxi, China
+    date_start: '2016-06-01'
+    date_end: '2020-05-01'
+    description: Supervised by Lei Xie.
 
   - title: Research Intern
     company: 'Chumenwenwen'
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.chumenwenwen.com/'
+    company_logo: 'org-chumenwenwen'
     location: Beijing, China
-    date_start: '2017-09-01'
-    date_end: '2017-06-01'
-    description: Development and optimization of Madarin TTS system
+    date_start: '2016-09-01'
+    date_end: '2016-06-15'
+    description: Be responsible for the optimization of the front-end modules of TTS system, including G2P and Prosody model.
 
 design:
-  columns: '2'
+  columns: '1'
 ---
