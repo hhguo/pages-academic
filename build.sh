@@ -1,3 +1,5 @@
+./hugo
+
 cd public
 git add .
 git commit -am 'update'
