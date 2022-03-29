@@ -74,4 +74,4 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Hello! I am Haohan, a PhD student @ CUHK. Before it, I studied at the School of Computer Science and Engineering, Northwestern Polytechnical University during 2013-2020. Then I worked as a researcher at Sogou Inc during 2020-2021. My current research direction is deep learning based speech synthesis. If you are interested in my works, welcome to contact me.
+Hello! I am Haohan, a PhD student @ CUHK. Before it, I studied at the School of Computer Science, Northwestern Polytechnical University during 2013-2020 for my bachelor's and master's degree. Then I worked as a researcher at Sogou Inc during 2020-2021. My current research topic is deep learning based speech synthesis. If you are interested in my works, welcome to contact me.
